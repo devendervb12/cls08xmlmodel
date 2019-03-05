@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<empList>
+		<id>11608</id>
+		<name>Devender</name>
+		<role>Trainer</role>
+	</empList>
+	<empList>
+		<id>21525</id>
+		<name>Surender</name>
+		<role>Marketing</role>
+	</empList>
+	<empList>
+		<id>41404</id>
+		<name>Mahender</name>
+		<role>Developer</role>
+	</empList>
+</root>
